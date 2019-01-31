@@ -1,0 +1,25 @@
+
+.name {
+  color: aliceblue;
+  background-color: #4aaaa5;
+  padding: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+.profile-image {
+  float: left;
+  margin-right: 10px;
+  height: 200px;
+  width: auto;
+}
+.sticky-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #666666;
+  text-align: center;
+  border-top: 8px solid #4aaaa5;
+  color: #ffffff;
+}
