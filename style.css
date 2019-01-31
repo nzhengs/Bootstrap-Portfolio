@@ -1,4 +1,7 @@
 
+.title-break{
+  border-bottom:1px solid #8ba9a7;
+}
 .name {
   color: aliceblue;
   background-color: #4aaaa5;
