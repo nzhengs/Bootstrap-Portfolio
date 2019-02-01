@@ -9,7 +9,10 @@
   font-size: 40px;
 }
 .profile-image {
-  height: 200px;
+  float: left;
+  height: 150px;
+  margin-right: 10px;
+  margin-bottom: 5px;
 }
 .sticky-footer {
   position: fixed;
