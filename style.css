@@ -1,6 +1,5 @@
-
-.title-break{
-  border-bottom:1px solid #8ba9a7;
+.title-break {
+  border-bottom: 1px solid #8ba9a7;
 }
 .name {
   color: aliceblue;
@@ -10,10 +9,7 @@
   font-size: 40px;
 }
 .profile-image {
-  float: left;
-  margin-right: 10px;
   height: 200px;
-  width: auto;
 }
 .sticky-footer {
   position: fixed;
@@ -25,4 +21,17 @@
   text-align: center;
   border-top: 8px solid #4aaaa5;
   color: #ffffff;
+}
+.portfolio-link {
+  background-color: #4aaaa5;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
 }
